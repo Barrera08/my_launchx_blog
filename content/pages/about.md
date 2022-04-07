@@ -9,13 +9,13 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> ¡Hola! Mi Nombre es Jorge Barrera, tengo 36 años, casado y, a pocas semanas de ser papá por primera vez, 
+> estoy aprendiendo programación web gracias al curso de Launch X de Innovación virtual.
+> 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Estudie MAC (Matemáticas Aplicadas y Computación** en la FES Acatlán, no terminé la carrera, pero me dedido al giro de soluciones TI.
+Tengo mi propia empresa, atiendo a MiPyMEs, en pocas palabras, nos convertimos en su departamento de sistemas, es decir, vemos de todo.
+Siempre tuve curiosidad por la programación, según yo, tengo buena lógica para tal propósito, por eso estamos aquí, para aprender cosas nuevas
+y poder aplicarlas y, así mejorar nuestras habilidades y conocimientos en pro de alguien mas.
+
 
