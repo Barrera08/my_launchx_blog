@@ -1,6 +1,6 @@
 ---
 title: "Mi Ruta de Aprendizaje en Launch X"
-date: 2022-03-01
+date: 2022-04-06
 description: 'Breve Resumen de lo Aprendido hasta ahora en Launch X de Innovación Virtual'
 ---
 
