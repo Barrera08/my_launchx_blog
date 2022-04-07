@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Jorge Barrera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://barrera08.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://barrera08.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Ruta de Aprendizaje en Launch X</title>
+      <link>https://barrera08.github.io/my_launchx_blog/posts/post_/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://barrera08.github.io/my_launchx_blog/posts/post_/</guid>
+      <description>¡Hey! Este es el contenido del nuevo post.
+¡Hola! es un gusto saludarte de nuevo, aquí te resumo brevemente lo aprendido hasta ahora en el curso de Launch X.
+Al llegar aquí sin conocimiento previo sobre programación web, he aprendido bastante, cosas como:
+ Pyhton. Git y GitHub. Lógica de programación. Comand Line. HTML. CSS. Java Scrip. UI y UX. Frameworks. Entre Otras cosas.  Honestamente es algo complicado, pueto se avanza muy rápido, se ven muchas cosas en poco tiempo, hay que dedicar mucho tiempo a investigación por cuenta propia.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://barrera08.github.io/my_launchx_blog/posts/intro/</link>
